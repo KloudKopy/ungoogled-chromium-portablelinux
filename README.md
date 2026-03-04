@@ -1,3 +1,4 @@
+ghub push trigger
 # ungoogled-chromium-portablelinux
 Portable Linux (`.AppImage`) packaging for [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium).
 
